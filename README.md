@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Kather et al., "Topography of cancer-associated immune cells in human solid tumors". eLife, 2018. http://dx.doi.org/10.7554/eLife.36967
+
+
 # immuneTopography
 
 ## What is this?
